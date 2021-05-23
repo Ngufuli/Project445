@@ -1,5 +1,5 @@
 {
-  "name": "BookIT",
+  "name": "bookit",
   "version": "1.0.0",
   "description": "Nicodemus and Rhittik",
   "main": "index.js",
@@ -33,14 +33,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/amazona.git"
+    "url": "git+https://github.com/"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/amazona/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/basir/amazona#readme",
+  "homepage": "https://github.com/",
   "engines": {
     "node": "12.4.0",
     "npm": "6.9.0"
